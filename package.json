@@ -1,0 +1,16 @@
+{
+  "name": "avenger",
+  "version": "0.1.0",
+  "description": "It's a fancy shmancy web dashboard for controlling the Parrot Rolling Spider drone",
+  "main": "index.js",
+  "authors": "Trezy <tre@trezy.com> (http://trezy.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/trezy/avenger"
+  },
+  "dependencies": {
+    "coffee-script": "^1.9.3",
+    "johnny-five": "^0.8.81"
+  }
+}
