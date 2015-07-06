@@ -10,6 +10,7 @@
     "url": "http://github.com/trezy/avenger"
   },
   "dependencies": {
+    "barcli": "0.0.13",
     "coffee-script": "^1.9.3",
     "johnny-five": "^0.8.81"
   }
